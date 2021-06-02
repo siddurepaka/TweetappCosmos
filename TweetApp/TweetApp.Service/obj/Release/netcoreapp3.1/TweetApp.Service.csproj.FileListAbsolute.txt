@@ -1,0 +1,22 @@
+C:\Users\User\source\CaseStudy\TweetApp\TweetApp.Service\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\User\source\CaseStudy\TweetApp\TweetApp.Service\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\User\source\CaseStudy\TweetApp\TweetApp.Service\bin\Release\netcoreapp3.1\TweetApp.Service.deps.json
+C:\Users\User\source\CaseStudy\TweetApp\TweetApp.Service\bin\Release\netcoreapp3.1\TweetApp.Service.dll
+C:\Users\User\source\CaseStudy\TweetApp\TweetApp.Service\bin\Release\netcoreapp3.1\TweetApp.Service.pdb
+C:\Users\User\source\CaseStudy\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.csprojAssemblyReference.cache
+C:\Users\User\source\CaseStudy\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.AssemblyInfoInputs.cache
+C:\Users\User\source\CaseStudy\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.AssemblyInfo.cs
+C:\Users\User\source\CaseStudy\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\source\CaseStudy\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.dll
+C:\Users\User\source\CaseStudy\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.pdb
+C:\Cmp3.1\New folder\CosmosDb\TweetApp\TweetApp.Service\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Cmp3.1\New folder\CosmosDb\TweetApp\TweetApp.Service\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Cmp3.1\New folder\CosmosDb\TweetApp\TweetApp.Service\bin\Release\netcoreapp3.1\TweetApp.Service.deps.json
+C:\Cmp3.1\New folder\CosmosDb\TweetApp\TweetApp.Service\bin\Release\netcoreapp3.1\TweetApp.Service.dll
+C:\Cmp3.1\New folder\CosmosDb\TweetApp\TweetApp.Service\bin\Release\netcoreapp3.1\TweetApp.Service.pdb
+C:\Cmp3.1\New folder\CosmosDb\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.csprojAssemblyReference.cache
+C:\Cmp3.1\New folder\CosmosDb\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.AssemblyInfoInputs.cache
+C:\Cmp3.1\New folder\CosmosDb\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.AssemblyInfo.cs
+C:\Cmp3.1\New folder\CosmosDb\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.csproj.CoreCompileInputs.cache
+C:\Cmp3.1\New folder\CosmosDb\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.dll
+C:\Cmp3.1\New folder\CosmosDb\TweetApp\TweetApp.Service\obj\Release\netcoreapp3.1\TweetApp.Service.pdb
